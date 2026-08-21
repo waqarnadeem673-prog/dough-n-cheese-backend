@@ -1,0 +1,8 @@
+# Dough N Cheese — Production Robots Policy
+User-agent: *
+Disallow: /admin/
+Disallow: /admin
+
+# Allow public customer site & assets
+Allow: /
+Allow: /hero.png
