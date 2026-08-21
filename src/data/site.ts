@@ -2,7 +2,7 @@ export const site = {
   name: 'Dough N Cheese',
   tagline: 'Meet. Eat. Repeat.',
   logo: 'https://doughncheesepk.com/wp-content/uploads/2025/04/Logo.png',
-  heroImage: '/hero.png',
+  heroImage: '/hero.webp',
   deliveryImage: 'https://doughncheesepk.com/wp-content/uploads/2025/04/delivery-man-1.png.webp',
   menuPdf: 'https://doughncheesepk.com/wp-content/uploads/2025/05/dough-cheese-menu.pdf',
   socials: {
